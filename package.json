@@ -18,6 +18,7 @@
   "homepage": "https://github.com/niksrj19/Node_Tutorial#readme",
   "dependencies": {
     "formidable": "^1.2.2",
-    "fs-extra": "^9.0.1"
+    "fs-extra": "^9.0.1",
+    "nodemailer": "^6.4.17"
   }
 }
